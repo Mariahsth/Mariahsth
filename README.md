@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Mariah and I am a  Web Development Student!
 
 - 📖 I’m currently learning React
-- 💻 Main technologies: JavaScrip, Node.js, Express, MongoDB, Socket.io, HTML, CSS, Python 
+- 💻 Main technologies: JavaScript, Node.js, Express, HTML, CSS, Python 
 - 📫 How to reach me:  
   e-mail: mariah.hoffmann@gmail.com || [linkedin](https://www.linkedin.com/in/mariah-silveira-tagliari-hoffmann-9a067914a/) 
 
