@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Mariah and I am a  Web Development Student!
+# 👋 Hi, my name is Mariah and I am a  Web Developer!
 
 - 📖 I’m currently learning Java
 - 💻 Main technologies: JavaScript, Node.js, React, Express, HTML, CSS, Python 
