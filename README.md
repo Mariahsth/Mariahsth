@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Mariah and I am a  Web Developer!
 
-- 📖 I’m currently learning Java
+- 📖 I’m currently learning TypeScript
 - 💻 Main technologies: JavaScript, Node.js, React, Express, HTML, CSS, Python 
 - 📫 How to reach me:
   
@@ -33,6 +33,8 @@
   <img align="center" alt="Mariah-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Mariah-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Mariah-Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  <img align="center" alt="Mariah-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
 
 
   
