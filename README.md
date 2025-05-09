@@ -1,7 +1,6 @@
 # 👋 Hi, my name is Mariah and I am a  Web Developer!
 
-- 📖 I’m currently learning Docker
-- 💻 Main technologies: JavaScript, Node.js, TypeScript, React, Express, HTML, CSS
+- 💻 Main technologies: React, Node.js, JavaScript, TypeScript, Express, MongoDB, HTML, CSS
 - 📫 How to reach me:
   
   <div> 
