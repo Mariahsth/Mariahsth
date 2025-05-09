@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Mariah and I am a  Web Developer!
 
-- 💻 Main technologies: React, Node.js, JavaScript, TypeScript, Express, MongoDB, HTML, CSS
+- 💻 Main technologies: React, Node.js, JavaScript, TypeScript, Express, MongoDB
 - 📫 How to reach me:
   
   <div> 
