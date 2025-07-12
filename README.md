@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Mariah and I am a  Web Developer!
 
-- 💻 Main technologies: React, Node.js, JavaScript, TypeScript, Express, MongoDB
+- 💻 Main technologies: React, Node.js, TypeScript, Express, MongoDB
 - 📫 How to reach me:
   
   <div> 
@@ -41,6 +41,8 @@
   <img align="center" alt="Mariah-MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
   <img align="center" alt="Mariah-Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
   <img align="center" alt="Mariah-Socket.io" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />
+  <img align="center" alt="Mariah-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  
 
   
 </div>
